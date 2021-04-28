@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.centered {
+    margin-top: 200px;
+}
+
+.user-form {
+    margin: 20px auto;
+    max-width: 500px;
+}

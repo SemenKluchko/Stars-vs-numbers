@@ -1,0 +1,21 @@
+.user-item-form {
+    width: 60%;
+    margin: 15px auto;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.form-label {
+    width: 150px;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.form-item {
+    display: flex;
+    align-items: center;
+}
